@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @islemfatnassi
+- 👀 I’m interested in data science, data analysis ,machine learning, and handwriting recognition, especially in Arabic documents.
+- 🌱 I’m currently learning advanced self-supervised learning techniques for writer identification using transformers and autoencoders.
+- 💞️ I’m looking to collaborate on AI projects, data analytics initiatives, or any research related to computer vision and natural language processing.
+- 📫 How to reach me:You can contact me via email at islem.fatnassi201@gmail.com or connect with me on LinkedIn (www.linkedin.com/in/islem-fatnassi-644086200).
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I love combining technology with art to create meaningful visualizations!
